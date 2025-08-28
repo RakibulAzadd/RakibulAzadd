@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/young-man-coding-computer-anime-style-illustration_1282444-262517.jpg">
 - 🔭 I’m currently working on **myself to develop my skill**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on [HSTU Alumni Association](http://hstualumni2024.infinityfreeapp.com/index.com)
 
